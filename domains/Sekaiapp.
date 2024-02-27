@@ -1,0 +1,16 @@
+{
+    "description": "Sekai app API",
+
+    "domain": "is-cool.dev",
+    "subdomain": "sekai",
+
+    "owner": {
+       "email": "Keyaru909@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "arthur-gate.chabokan.net",
+      },
+
+    "proxied": false
+}
